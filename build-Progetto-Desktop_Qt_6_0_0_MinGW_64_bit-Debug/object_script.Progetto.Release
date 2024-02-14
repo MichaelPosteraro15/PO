@@ -1,0 +1,13 @@
+release/Articolo.o
+release/Autore.o
+release/Conferenza.o
+release/GestoreArticoli.o
+release/GestoreAutori.o
+release/GestoreConferenze.o
+release/GestoreProgetto.o
+release/GestoreRiviste.o
+release/MezzoDivulgativo.o
+release/Rivista.o
+release/main.o
+release/mainwindow.o
+release/moc_mainwindow.o

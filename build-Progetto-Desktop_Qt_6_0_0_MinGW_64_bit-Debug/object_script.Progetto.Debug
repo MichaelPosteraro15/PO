@@ -1,0 +1,13 @@
+debug/Articolo.o
+debug/Autore.o
+debug/Conferenza.o
+debug/GestoreArticoli.o
+debug/GestoreAutori.o
+debug/GestoreConferenze.o
+debug/GestoreProgetto.o
+debug/GestoreRiviste.o
+debug/MezzoDivulgativo.o
+debug/Rivista.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_mainwindow.o
